@@ -3,7 +3,7 @@
 
 代码可直接pull到本地进行运行。入口在 test 包下面的 DBExampleTest 测试类中。
 
-本项目中，使用到了一张user表，sql语句在 sql.sql 文件中。运行项目前需要把把表在本地数据库中建好。
+本项目中，使用到了一张user表，sql语句在 sql.sql 文件中。运行项目前需要把表在本地数据库中建好。
 
 ## 涉及技术版本
 - Spring Boot 3
